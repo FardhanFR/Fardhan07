@@ -48,7 +48,7 @@ if(isset($_POST['proses'])){
         <th width="100">Kode Mapel</th>
         <th width="200">Nama Siswa</th>
         <th width="200">Nama Mapel</th>
-        <th width="150">Kelas</th>
+        <th width="75">Kelas</th>
         <th colspan="2">Aksi</th>
     </tr>
 
